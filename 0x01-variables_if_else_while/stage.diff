@@ -1,0 +1,22 @@
+diff --git a/0x01-variables_if_else_while/8-print_base16.c b/0x01-variables_if_else_while/8-print_base16.c
+index 458f036..81ebb30 100755
+--- a/0x01-variables_if_else_while/8-print_base16.c
++++ b/0x01-variables_if_else_while/8-print_base16.c
+@@ -9,15 +9,14 @@ int main(void)
+ {
+ 	int n;
+ 	char ch;
+-	
++
+ 	for (n = 48; n < 58; n++)
+ 	{
+ 		putchar(n);
+ 	}
+ 	for (ch = 'a'; ch <= 'f'; ch++)
+-	{
+ 		putchar(ch);
+-	}
++        }
+ 	putchar('\n');
+ 	return (0);
+ }
