@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- *_puts - prints string
- *@str: A pointer to int that we will change
- *
- *Return: void means correct answer
- */
+*_puts - prints string
+*@str: A pointer to int that we will change
+*
+*Return: void means correct answer
+*/
 
 void _puts(char *str)
 {
