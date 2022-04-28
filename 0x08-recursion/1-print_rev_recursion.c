@@ -13,4 +13,3 @@ _print_rev_recursion(s + 1); /*add s*/
 _putchar(*s); /*print s*/
 }
 }
-© 2022 GitHub, Inc.
